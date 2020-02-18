@@ -26,5 +26,13 @@ Task 2 and 3 are pictured below.
 ---
 ### Test
 
+Pictures of testing in progress below.
+
+<img src="IMG_6322.jpg" width="450">
+
+<img src="IMG_6324.jpg" width="450">
+
+<img src="IMG_6323.jpg" width="450">
+
 ---
 ### Reflection
