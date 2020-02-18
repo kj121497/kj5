@@ -36,9 +36,7 @@ Pictures of testing in progress below.
 
 <img src="IMG_6323.jpg" width="450">
 
-Below is Task 1 as I scripted in order to observe whether a user would follow the steps of the feature in my point of view of how that feature should work. 
-
-#### 3 TASKS
+###### Below is Task 1 as I scripted in order to observe whether a user would follow the steps of the feature in my point of view of how that feature should work. 
 
 ##### TASK 1: 
 Use search bar to search profile posts by date
@@ -59,7 +57,7 @@ Below are the steps the user took.
 
 As observed, the user was able to successfully use the feature. He followed most of the steps accordingly. However, he had trouble understanding the search bar would only appear when the screen was pulled down. I believe this is because Wireframe 1 to Wireframe 2 is unable to soundly encapsulate that part of the feature through a sketch. Furthermore, the user was unable to identity the newly implemented search bar, even though it was at the top of the screen on the Profile. I believe this is because users are immediately drawn to the search bar at the bottom of the app. Nevertheless, the user was able to identify the correct search bar in Wireframe 3, as it is more prominent and includes a keyboard pop-up. Aside from the minor hiccups listed above, the user was able to access and use the feature as desired. 
 
-Below are Task 2 and 3 as I scripted in order to observe whether a user would follow the steps of the feature in my point of view of how that feature should work. 
+###### Below are Task 2 and 3 as I scripted in order to observe whether a user would follow the steps of the feature in my point of view of how that feature should work. 
 
 ##### TASK 2 and TASK 3: 
 Forward and rewind a video
