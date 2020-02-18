@@ -13,7 +13,15 @@ Below is a scanned image of wireframe sketches. Please click [here](https://gith
 <img src="CLICKING B-page-001.jpg">
 
 ---
-### Wireflow
+### Wireflows
+
+Task 1 is pictured below.
+
+<img src="6 VA MI-page-001.jpg">
+
+Task 2 and 3 are pictured below.
+
+<img src="COMMEN1 2-page-001.jpg">
 
 ---
 ### Test
